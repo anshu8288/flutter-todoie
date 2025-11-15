@@ -47,7 +47,7 @@ class _RootPageState extends State<RootPage> {
     return Scaffold(
       appBar: AppBar(
         title: Center(
-          child: Text('To-Doie App')
+          child: Text('To-Doie App New')
         ),
       ),
 
